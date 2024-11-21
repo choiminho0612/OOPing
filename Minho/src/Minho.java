@@ -16,5 +16,6 @@ public class Minho {
 		System.out.println("민호떡민호떡");
 		System.out.println("예은커밋최종");
 		System.out.println("동한커밋최종최종");
+		System.out.println("민호커밋최종최종최종");
     }
 }
