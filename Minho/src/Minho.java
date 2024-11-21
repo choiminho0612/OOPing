@@ -12,6 +12,6 @@ public class Minho {
 		System.out.println("민호민호");
 		System.out.println("예은branch");
 		System.out.println("아아앙");
-		
+		System.out.println("예은예은");
     }
 }
