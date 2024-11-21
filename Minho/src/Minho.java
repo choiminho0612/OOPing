@@ -6,6 +6,7 @@ public class Minho {
 		System.out.println("");
 		System.out.println("깃허브 제발제발 임동한");
 		System.out.println("예은");
+		System.out.println("예은");
+		System.out.println("제발");
 	}
-
 }
