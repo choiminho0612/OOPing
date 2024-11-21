@@ -7,6 +7,7 @@ public class Yeeun {
 			System.out.println("OOPing");
 			System.out.println("민호떡");
 			System.out.println("동한아 안녕");
+			System.out.println("진성아 안녕");
 	}
 
 }
