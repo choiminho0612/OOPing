@@ -30,7 +30,7 @@ class MainMenu extends JFrame {
                 g.setColor(Color.ORANGE);
                 g.fillOval(300, 200, 200, 100); // 간단히 드래곤 모양 표현
                 g.setColor(Color.BLACK);
-                g.drawString("용이 헤엄치는 모습!", 350, 250);
+                g.drawString("용이 헤엄치는 모습", 350, 250);
             }
         };
         panel.setLayout(null);
@@ -85,7 +85,7 @@ class CharacterSelection extends JFrame {
         panel.add(zhubajieButton);
         panel.add(monkButton);
 
-        gokuButton.addActionListener(e -> showStory("손오공", "손오공은 드래곤볼을 모으기 위해 길을 떠납니다!"));
+        gokuButton.addActionListener(e -> showStory("손오공", "손오공은 드래곤볼을 모으기 위해 길을 떠납니다"));
         saohjungButton.addActionListener(e -> showStory("사오정", "사오정은 특별한 능력으로 드래곤볼을 모으기 시작합니다."));
         zhubajieButton.addActionListener(e -> showStory("저팔계", "저팔계는 배고픔을 참으며 모험을 떠납니다."));
         monkButton.addActionListener(e -> showStory("삼장법사", "삼장법사는 지혜로 드래곤볼을 모읍니다."));
